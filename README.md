@@ -93,7 +93,7 @@ API использует **JWT-токены** (библиотека `djangorestf
 
 
 # 1. Клонировать репозиторий
-git clone https://github.com/theterorrplaygt/practice6.git
+git clone https:
 
 # 2. Создать и активировать виртуальное окружение
 python -m venv venv
