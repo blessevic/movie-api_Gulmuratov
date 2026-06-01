@@ -93,7 +93,7 @@ API использует **JWT-токены** (библиотека `djangorestf
 
 
 # 1. Клонировать репозиторий
-git clone https:
+git clone https:https://github.com/blessevic/movie-api_Gulmuratov
 
 # 2. Создать и активировать виртуальное окружение
 python -m venv venv
